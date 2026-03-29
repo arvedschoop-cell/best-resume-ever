@@ -2,9 +2,9 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: Sara
   middle:
-  last: Doe
+  last: Steiert
 about: Hi, my name is John Doe. I'm just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
@@ -90,9 +90,9 @@ contact:
   email: john.doe@email.com
   phone: 0123 456789
   street: 1234 Broadway
-  city: New York
+  city: Stuttgart
   website: johndoe.com
-  github: johnyD
+  github: salomonelli
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
